@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @kikkdt
-- 📫 Keep in touch with [Me](mailto:contact@kikkdt.me)
+- 🌐 Learn more about [Me](https://kietdt.me/)
+- 📫 Mail to [Me](mailto:contact@kikkdt.me)
 
 <!---
 kikkdt/kikkdt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
