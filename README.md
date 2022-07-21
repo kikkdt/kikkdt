@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kikkdt
+- 👋 Hi, I’m @kikkdt - aka KietDt
 - 🌐 Learn more about [Me](https://kietdt.me/)
 - 📫 Mail to [Me](mailto:contact@kikkdt.me)
 
