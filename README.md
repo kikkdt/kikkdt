@@ -3,7 +3,7 @@ I’m @kikkdt - a.k.a @kiet.dt
 
 ## How to reach Me 
 - 🌐 More about [Me](https://kietdt.me/)
-- 📫 Mail to [Me](mailto:contact@kikkdt.me)
+- 📫 Mail to [Me](mailto:me@kietdt.me)
 - DEV.to [@kikkdt](https://dev.to/kikkdt)
 
 <!---
