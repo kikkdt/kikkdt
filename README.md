@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 ![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kikkdt&theme=material_palenight)
 ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kikkdt&theme=material_palenight)
 
-<a href="https://app.daily.dev/kikkdt"><img src="https://api.daily.dev/devcards/536dfe0947244d55972e8a72e8bc7cb2.png?r=vhb" width="250" alt="Kiet Dt's Dev Card"/></a>
+<a href="https://app.daily.dev/kikkdt"><img src="https://github.com/kikkdt/kikkdt/blob/main/devcard.svg" width="250" alt="Kiet Dt's Dev Card"/></a>
